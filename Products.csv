@@ -1,0 +1,61 @@
+ProdID,ProductName,UnitCost,ListPrice,QtyPerUnit,SupID
+P111,Syrup,7.5,10,12 - 550 ml bottles,S009
+P112,Cajun Seasoning,19.5,22,48 - 6 oz jars,S004
+P113,Olive Oil,19.01,21.35,36 boxes,S003
+P114,Boysenberry Spread,18.75,25,12 - 8 oz jars,S006
+P115,Dried Pears,22.5,30,12 - 1 lb pkgs.,S001
+P116,Mango,30,40,12 - 12 oz jars,S002
+P117,Walnuts,17.44,23.25,40 - 100 g pkgs.,S005
+P118,Fruit Cocktail,29.25,39,18.25 OZ,S009
+P119,Chocolate Biscuits Mix,6.9,9.2,10 boxes x 12 pieces,S004
+P120,Jam,6.75,8.1,30 gift boxes,S007
+P121,Scones,7.5,10,24 pkgs. x 4 pieces,S007
+P122,Red Stripe,10.5,14,24 - 12 oz bottles,S002
+P123,Crab Meat,13.8,18.4,24 - 4 oz tins,S008
+P124,Clam Chowder,7.24,9.65,12 - 12 oz cans,S009
+P125,Coffee,34.5,46,19 - 500 g tins,S002
+P126,Plantain,9.55,12.75,10 pkgs,S002
+P127,Fish Sauce,39.75,53,50 - 300 g pkgs.,S001
+P128,Long Grain Rice,5.25,7,19 - 2 kg boxes,S001
+P129,Gnocchi,28.5,38,24 - 250 g pkgs.,S003
+P130,Ravioli,14.63,19.5,24 - 250 g pkgs.,S003
+P131,Salt Fish,18.79,21.05,4 lbs,S002
+P132,Tomato Sauce,12.75,17,24 - 8 oz jars,S003
+P133,Mozzarella,26.1,34.8,24 - 200 g pkgs.,S003
+P134,Almonds,7.5,10,5 kg pkg.,S005
+P135,Mustard,9.75,13,12 boxes,S004
+P136,Dried Plums,3,3.5,1 lb bag,S001
+P137,Green Tea,2,2.99,20 bags per box,S012
+P138,Granola,2,4,5 kg pkg.,S004
+P139,Potato Chips,0.5,1.8,20 bags per box,S007
+P140,Brownie Mix,9,12.49,3 boxes,S004
+P141,Cake Mix,10.5,18.99,4 boxes,S004
+P142,Tea,2,4,100 count per box,S012
+P143,Pears,1,1.3,18.25 OZ,S005
+P144,Peaches,1,1.5,18.25 OZ,S005
+P145,Pineapple,1,1.8,18.25 OZ,S005
+P146,Apple Pie Filling,1,2,18.25 OZ,S004
+P147,Green Beans,1,1.2,14.5 OZ,S005
+P148,Corn,1,1.2,14.5 OZ,S005
+P149,Peas,1,1.5,14.5 OZ,S005
+P150,Tuna Fish,0.5,2,5 oz,S008
+P151,Smoked Salmon,2,4,5 oz,S006
+P152,Hot Cereal,3,5,14.5 OZ,S004
+P153,Vegetable Soup,1,1.89,14.5 OZ,S004
+P154,Chicken Soup,1,1.95,14.5 OZ,S004
+P155,Patties,3,3.5,5 per order,S010
+P156,Miso,10,11,15 Oz,S011
+P157,Wasabe,15,20,3 Oz,S011
+P158,Easter Bun,7,8,3 Per Box,S010
+P159,Croissant,5,6.5,5 per box,S013
+P160,Rum,12,16,1 Bottle,S014
+P161,Ghee,5,7.5,1 lb,S015
+P162,Gruyere,10,12,1 lb Slab,S016
+P163,Garam Masal,6,7.25,2 Jars,S017
+P164,Chick Peas,12,17.5,12 Tins,S018
+P165,Baguette,3.5,4.25,3 Per Order,S013
+P166,Hot Pepper Sauce,18.79,21.05,32 - 8 oz bottles,S014
+P167,Tumeric,3.75,4.75,1 Jar,S015
+P168,Brie,8,9.5,1lb Slab,S016
+P169,Cardamon Pods,3.25,4,1lb Bag,S017
+P170,Roti,4.23,6,8,S018

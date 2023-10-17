@@ -1,0 +1,27 @@
+CustID,Company,LastName,FirstName,JobTitle,BusinessPhone,Address,City,State,ZIPCode
+C101,Abby's Health Store,Bedecs,Anna,Owner,(123)555-2475,123 1st Street,Arle,AL,98052
+C102,Bayou Market,Gratacos,Antonio,Owner,(123)555-8721,123 2nd Street,Rock Hill,SC,29724
+C103,Café Alma,Axen,Thomas,Purchasing Representative,(123)555-5312,123 3rd Street,St. Petersburg,FL,33713
+C104,Canyon Grocery,Bagel,Jean Philippe,Owner,(123)555-2345,456 17th Street,Summersville,SC,29620
+C105,Central Café,Lee,Christina,Purchasing Manager,(123)555-1475,123 4th Street,St. Petersburg,FL,33701
+C106,Cerviches,O’Donnell,Martin,Owner,(123)555-5612,123 5th Street,Sarasota,FL,34237
+C107,Cook's Market,Pérez-Olaeta,Francisco,Purchasing Manager,(123)555-3754,123 6th Street,Macon,GA,30814
+C108,Evos,Xie,Ming-Yang,Owner,(123)555-8756,123 7th Street,Pinellas Park,FL,33781
+C109,Fortunato's,Andersen,Elizabeth,Purchasing Representative,(123)555-3425,123 8th Street,Tampa,FL,34595
+C110,Grass Root Organic,Mortensen,Sven,Purchasing Manager,(123)555-4714,123 9th Street,Dothan,AL,98052
+C111,Gratzzi Grille,Wacker,Roland,Purchasing Manager,(123)555-8632,123 10th Street,Beaufort,SC,29839
+C112,Hungry Owl,Krschne,Peter,Purchasing Manager,(123)555-5894,123 11th Street,Miami,FL,33102
+C113,Island Trading,Edwards,John,Purchasing Manager,(123)555-2146,123 12th Street,Charlotte,FL,35702
+C114,Leafy Green Café,Ludick,Andre,Purchasing Representative,(123)555-0258,456 13th Street,Albany,GA,31329
+C115,Mazzaro's,Grilo,Carlos,Purchasing Representative,(123)555-4712,456 14th Street,St. Petersburg,FL,33709
+C116,Ming Ming Tea,Kupkova,Helena,Purchasing Manager,(123)555-2685,456 18th Street,Largo,FL,33778
+C117,Nature's Food Patch,Goldschmidt,Daniel,Purchasing Representative,(123)555-4186,456 19th Street,Clearwater,FL,33755
+C118,Real Fresh Food,Miconi,Catherine,Purchasing Representative,(123)555-8962,456 18th Street,Auburn,AL,98051
+C119,Red Mesa Cantina,Eggerer,Alexander,Accounting Assistant,(123)555-7485,789 19th Street,St. Petersburg,FL,33703
+C120,Rollin' Oats,Li,George,Purchasing Manager,(123)555-5821,789 20th Street,Hinesville,GA,31072
+C121,Seven Seas Imports,Tham,Bernard,Accounting Manager,(123)555-7452,789 21th Street,Sumter,SC,28950
+C122,The Tavern,Ramos,Luciana,Purchasing Assistant,(123)555-5862,789 22th Street,St. Petersburg,FL,33709
+C123,Trail's Head Provisioners,Entin,Michael,Purchasing Manager,(123)555-3647,789 23th Street,Greenville,SC,29194
+C124,Uncorked,Hasselberg,Jonas,Owner,(123)555-8540,789 24th Street,Montgomery,AL,99999
+C125,Urban Spoon,Rodman,John,Purchasing Manager,(123)555-4758,789 25th Street,Brunswick,GA,31810
+C126,Whole Foods Market,Martin,Andrea,Accounting Assistant,(123)555-3838,789 26th Street,Miami,FL,33107
